@@ -6,7 +6,7 @@
 <ul>
   <li>Junior developer</li>
   <li>Born in Santa Catarina, Brazil</li>
-  <li>Computer Science at Univali (1/10)</li>
+  <li>Computer Science at Univali (2/10)</li>
 </ul>
 
 ---
