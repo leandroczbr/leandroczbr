@@ -19,5 +19,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=50/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height=50/>
-          
+
+---
+<img src="https://www.supersense.com/shared/lipis-flag-icons/flags/4x3/br.svg" height=50/>
+<img src="https://www.supersense.com/shared/lipis-flag-icons/flags/4x3/us.svg" height=50/>
+
 </div>
